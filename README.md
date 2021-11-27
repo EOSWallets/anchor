@@ -7,7 +7,8 @@
 
 # Anchor - A feature rich, open-source, EOSIO Wallet
 
-![Anchor Screenshot 1](https://raw.githubusercontent.com/greymass/anchor/master/internals/img/anchor-ss1.png)
+![Anchor Screenshot 1](https://user-images.githubusercontent.com/2081812/143673418-b6fa7043-b56c-40fb-9fe7-1856b22c797e.png)
+
 
 ### Features
 
