@@ -1,0 +1,23 @@
+{
+  "transfer_close": "关闭",
+  "transfer_confirming_body": "请确保此传输的目的地,数量和备注有效.",
+  "transfer_confirming_title": "查看您的交易",
+  "transfer_destination_account_is_contract": "目标帐户已启用智能合约，通过发送到此帐户，您的转账可能会触发其他操作，从而消耗RAM。",
+  "transfer_header_available": "可转账",
+  "transfer_label_from": "原始账户",
+  "transfer_label_memo": "传送备忘录",
+  "transfer_label_quantity": "数量",
+  "transfer_label_to": "目标帐户",
+  "transfer_label_token_and_quantity": "令牌选择+数量",
+  "transfer_modal_title": "转让令牌",
+  "transfer_modal_transaction_successful_message": "请求的交易已处理,交易ID可以在下面找到.",
+  "transfer_modal_transaction_successful_title": "令牌转让成功！",
+  "transfer_receive_body_text": "要接收令牌，只需向发送者提供以下帐户名",
+  "transfer_receive_button_cta": "接收代币",
+  "transfer_receive_modal_header": "接收代币",
+  "transfer_send_button_cta": "发送代币",
+  "transfer_send_exchange_in_memo_one": "你想转帐到交易所吗？若有，付诸表决",
+  "transfer_send_exchange_in_memo_two": "作为帐户名，并在备注字段中输入给定的备注代码",
+  "transfer_warning_irreversible_body": "交易一旦提交,将不可撤销.",
+  "transfer_warning_irreversible_title": "交易不可逆转"
+}

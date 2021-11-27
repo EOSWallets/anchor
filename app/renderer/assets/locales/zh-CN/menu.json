@@ -1,0 +1,14 @@
+{
+  "button_manage_blockchains": "管理区块链",
+  "button_manage_wallets": "管理钱包",
+  "dropdown_select_blockchain": "选择一个区块链...",
+  "governance": "治理",
+  "home": "首页",
+  "setup": "设置账号",
+  "minimize": "最小化菜单",
+  "producer_voting": "节点投票",
+  "resources": "资源",
+  "tools": "工具",
+  "wallet": "钱包"
+}
+

@@ -1,0 +1,15 @@
+{
+  "broadcast_transaction_broadcast": "广播交易",
+  "broadcast_transaction_confirm_details_content": "查看此交易的详细信息，如果详细信息看起来正确，请单击下面的按钮签署并广播该交易。",
+  "broadcast_transaction_confirm_details_title": "查看交易",
+  "broadcast_transaction_import_file": "导入交易文件",
+  "broadcast_transaction_import_file_content": "选择要开始的已签名交易文件",
+  "broadcast_transaction_import_file_title": "导入交易文件",
+  "broadcast_transaction_import_json": "导入交易字符串",
+  "broadcast_transaction_import_json_label": "将交易JSON对象粘贴到此处",
+  "broadcast_transaction_invalid_error": "上传的文件或字符串无效",
+  "broadcast_transaction_not_signed": "无法广播未签名的交易",
+  "broadcast_transaction_note": "请注意，必须对签名进行签名才能进行广播",
+  "broadcast_transaction_paste_json_title": "粘贴签名字符串",
+  "broadcast_transaction_signbroadcast": "签名 + 广播交易"
+}

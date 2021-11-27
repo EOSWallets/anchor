@@ -1,0 +1,24 @@
+{
+  "name": "anchor-wallet",
+  "productName": "Anchor Wallet",
+  "version": "1.3.1",
+  "description": "An EOSIO Light Wallet with simple tools for basic activities and advanced tools for power users.",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Greymass",
+    "email": "hello@greymass.com",
+    "url": "https://github.com/greymass"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ../internals/scripts/BabelRegister.js ../internals/scripts/ElectronRebuild.js",
+    "postinstall": "npm run electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@ledgerhq/hw-transport-node-hid": "6.6.0"
+  },
+  "devDependencies": {
+    "@babel/register": "^7.15.3"
+  }
+}

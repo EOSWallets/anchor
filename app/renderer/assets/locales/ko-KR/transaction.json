@@ -1,0 +1,18 @@
+{
+  "broadcast_transaction_broadcast": "트랜잭션 전파하기",
+  "broadcast_transaction_confirm_details_content": "이 트랜잭션의 세부 정보를 검토하고 아래 버튼을 클릭하여 트랜잭션에 서명하고 전파하세요.",
+  "broadcast_transaction_confirm_details_title": "트랜잭션 검토",
+  "broadcast_transaction_import_file": "트랜잭션 파일 가져오기",
+  "broadcast_transaction_import_file_content": "시작하기 위해 서명된 트랜잭션 파일 가져오기",
+  "broadcast_transaction_import_file_title": "트랜잭션 파일 가져오기",
+  "broadcast_transaction_import_json": "트랜잭션 문자열 가져오기",
+  "broadcast_transaction_import_json_label": "여기에 트랜잭션 JSON 객체를 붙여넣기 해주세요..",
+  "broadcast_transaction_invalid_error": "업로드 한 파일 또는 문자열에 오류가 있습니다.",
+  "broadcast_transaction_not_signed": "서명하지 않은 트랜잭션은 전파할 수 없습니다.",
+  "broadcast_transaction_paste_esr_title": "ESR 페이로드 가져오기",
+  "broadcast_transaction_import_esr_label": "수동 서명 요청을 위해 ESR 페이로드 붙여넣기",
+  "broadcast_transaction_import_esr": "서명 요청하기",
+  "broadcast_transaction_note": "트랜잭션을 전파하기 위해 서명 여부를 확인해주시기 바랍니다.",
+  "broadcast_transaction_paste_json_title": "트랜잭션 문자열 붙여넣기",
+  "broadcast_transaction_signbroadcast": "트랜잭션 서명 + 전파","
+}

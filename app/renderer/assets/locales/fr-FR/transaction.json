@@ -1,0 +1,15 @@
+{
+  "broadcast_transaction_broadcast": "Broadcast Transaction",
+  "broadcast_transaction_confirm_details_content": "Vérifiez les détails de cette transaction et si les détails vous semblent corrects, cliquez sur le bouton ci-dessous pour signer et diffuser la transaction.",
+  "broadcast_transaction_confirm_details_title": "Examiner la transaction",
+  "broadcast_transaction_import_file": "Importer le fichier de transaction",
+  "broadcast_transaction_import_file_content": "Sélectionnez un fichier de transaction signé pour commencer",
+  "broadcast_transaction_import_file_title": "Importer un fichier de transaction",
+  "broadcast_transaction_import_json": "Importer la chaîne de transaction",
+  "broadcast_transaction_import_json_label": "Collez ici l'objet JSON de transaction ..",
+  "broadcast_transaction_invalid_error": "Le fichier ou la chaîne qui a été téléchargé n'est pas valide.",
+  "broadcast_transaction_not_signed": "Impossible de diffuser une transaction non signée.",
+  "broadcast_transaction_note": "Veuillez noter que la transaction doit être signée pour pouvoir être diffusée.",
+  "broadcast_transaction_paste_json_title": "Coller une chaîne de transaction",
+  "broadcast_transaction_signbroadcast": "Signer + Transaction de diffusion"
+}
